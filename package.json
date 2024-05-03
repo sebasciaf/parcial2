@@ -4,7 +4,7 @@
     "description": "",
     "main": "",
     "scripts": {
-      "p1":"node p1/r1.js",
+      "p1":"p1/r1.js",
       "p2":"node p2/r2.js",
       "p3":"node p3/r3.js",
       "p4":"node p4/r4.js",
@@ -18,6 +18,6 @@
     },
     "keywords": [],
     "author": "sebastian valencia & mabel ladino",
-    "license": "ISC"
+    "license": "chuchitoamen"
   }
   
