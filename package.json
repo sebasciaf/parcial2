@@ -1,0 +1,23 @@
+{
+    "name": "parcial2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "scripts": {
+      "p1": "node p1/r1.js",
+      "p2": "node p2/r2.js",
+      "p3": "node p3/r3.js",
+      "p4": "node p4/r4.js",
+      "p5": "node p5/r5.js",
+      "p6":"node p6/r6.js",
+      "p7":"node p7/r7.js",
+      "p8":"node p8/r8.js" , 
+      "p9":"node p9/r9.js",
+      "p10":"node p10/r10.js"
+      
+    },
+    "keywords": [],
+    "author": "sebastian valencia & mabel ladino",
+    "license": "ISC"
+  }
+  
